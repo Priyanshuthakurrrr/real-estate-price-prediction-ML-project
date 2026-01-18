@@ -1,4 +1,4 @@
-# real-estate-price-prediction-ML-project
+# Real-estate-price-prediction-ML-project
 This project focuses on predicting real estate prices using machine learning regression techniques.
 The goal is to understand how different property-related features influence housing prices and to build a predictive model using scikit-learn.
 
