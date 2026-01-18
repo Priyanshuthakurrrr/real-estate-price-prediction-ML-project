@@ -5,10 +5,10 @@ The goal is to understand how different property-related features influence hous
 The project demonstrates the end-to-end ML workflow, from data preprocessing to model training and evaluation.
 
 Objectives:-
-Analyze factors affecting real estate prices
-Perform data preprocessing and feature handling
-Build and train regression-based ML models
-Evaluate model performance using appropriate metrics
+Analyze factors affecting real estate prices,
+Perform data preprocessing and feature handling,
+Build and train regression-based ML models,
+Evaluate model performance using appropriate metrics,
 Understand the importance of feature engineering in prediction accuracy
 
 The project follows these steps:
